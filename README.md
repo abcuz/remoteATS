@@ -42,7 +42,7 @@ The goal of RemoteATS is to create an intelligent, remotely controllable system 
 - Power supply units
 - Connectivity modules (Wi-Fi, Ethernet, etc., via external modules or onboard Ethernet)
 
-*Note: As this is a prototype, hardware configurations may vary.*
+[!Note] As this is a prototype, hardware configurations may vary.*
 
 ---
 
@@ -54,7 +54,7 @@ The goal of RemoteATS is to create an intelligent, remotely controllable system 
 - Online control portal for managing the system remotely
 - Logging and status monitoring tools
 
-*Note: The software is currently in development and will evolve over time.*
+[!Note] The software is currently in development and will evolve over time.*
 
 ---
 
@@ -98,7 +98,7 @@ This project is currently in the **prototype phase**. Core functionalities are b
 ## Contributing
 
 Contributions are encouraged! Please fork the repository, create a feature branch, and submit a pull request with your improvements.
-
+Please read RULES.md file more information
 ---
 
 ## License
